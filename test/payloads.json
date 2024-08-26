@@ -1,0 +1,15 @@
+// add stock
+
+{
+    "symbol": "",
+    "name": "",
+    "price": ""
+}
+
+// add dividend for stock
+
+{
+    "symbol": "",
+    "dividend_amount": "",
+    "dividend_date": ""
+}
