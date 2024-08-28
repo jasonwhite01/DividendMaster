@@ -22,3 +22,15 @@ SQLite3 Database
 2. (Main.py) LLM Chat app to get recommendations about a ticker's dividend performance fitness for an income investor.
 
 ## Features to add
+
+### Major Features
+
+1. Add javascript front end, have it call the exposed API's
+
+### Minor Features
+
+1. LLM Chat - create flags for types of investors (first 2 ideas: growth, income) and adjust LLM prompting appropriately
+
+## Tech Debt
+
+1. Abstract the LLM functionality such that the backend app can call it as needed
