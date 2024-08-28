@@ -1,10 +1,10 @@
 # dividendMaster
 
-Application that is used to analyze the earning power and/or potential of given stocks' dividends
+Application that is used to perform different types of analysis of a given stocks' dividend
 
 ## Design
 
-API driven app
+Command Line (Main.py ticker=xyz) + API (App.py via "Flask run") app
 
 ### Frontend
 
@@ -16,6 +16,9 @@ Python
 SQLite3 Database
 
 
-## New Feature Ideas
+## Features
 
-1. Hook up LLM (i.e. openAI chatgpt) and turn this into more of a chat app that provides dividend analysis
+1. (App.py) Basic command line tool (with API's exposed via Flask) 
+2. (Main.py) LLM Chat app to get recommendations about a ticker's dividend performance fitness for an income investor.
+
+## Features to add
