@@ -26,7 +26,7 @@ SQLite3 Database
 ### Major Features
 
 1. *Full Stack App:* Add javascript front end, have it call the exposed API's.
-2. Goal Seeking Simulation: Add ability to calculate how long it would take to reach a dollar earnings goal for a given stock's dividend.
+2. _Goal Seeking Simulation:_ Add ability to calculate how long it would take to reach a dollar earnings goal for a given stock's dividend.
    
 ### Minor Features
 
