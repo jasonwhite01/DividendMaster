@@ -25,12 +25,13 @@ SQLite3 Database
 
 ### Major Features
 
-1. Add javascript front end, have it call the exposed API's
-
+1. *Full Stack App:* Add javascript front end, have it call the exposed API's.
+2. Goal Seeking Simulation: Add ability to calculate how long it would take to reach a dollar earnings goal for a given stock's dividend.
+   
 ### Minor Features
 
-1. LLM Chat - create flags for types of investors (first 2 ideas: growth, income) and adjust LLM prompting appropriately
+1. LLM Chat - create flags for types of investors (first 2 ideas: growth, income) and adjust LLM prompting appropriately.
 
 ## Tech Debt
 
-1. Abstract the LLM functionality such that the backend app can call it as needed
+1. Abstract the LLM functionality such that the backend app can call it as needed.
