@@ -18,7 +18,7 @@ SQLite3 Database
 
 ## Features
 
-1. (App.py) Basic command line tool (with API's exposed via Flask) 
+1. (App.py) Back end app (with API's exposed via Flask) 
 2. (Main.py) LLM Chat app to get recommendations about a ticker's dividend performance fitness for an income investor.
 
 ## Features to add
